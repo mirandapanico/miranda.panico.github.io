@@ -1,0 +1,19 @@
+h1 {color: purple; font-size: 175% }
+
+
+body { background: lightblue; 
+		color: royalblue;
+		font-size: 14pt; font-family:'A Year Without Rain', cursive; }
+		
+		nav li { display: inline-block; 
+		  	border: 1px solid black;
+ 			background: white;
+			padding: 10px;}
+			
+
+		a { color: darked; 
+		text-decoration: none} 
+
+		a:hover { color: purple; text-decoration: underline }
+		
+		<link href="style.css" rel="stylsheet">
